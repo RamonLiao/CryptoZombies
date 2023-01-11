@@ -21,8 +21,6 @@
 | -------- | ---------------------------------------------------------------------------------------------------------------- | ---- |
 | Lesson 1 | [Data Feeds and Computation](./2_Chainlink-Decentralized%20Oracles/Lesson%201-Data%20Feeds%20and%20Computation/) |      |
 
-<br>
-
 # Course 3 - Advanced Solidity: Get In-depth Knowledge
 
 | Lessons  | Descriptions                                                                                                                                        | Note |
@@ -33,16 +31,12 @@
 | Lesson 4 | [How to Build an Oracle - Part 2](./3_Advanced%20Solidity-Get%20In-depth%20Knowledge/Lesson%204-How%20to%20Build%20an%20Oracle%20-%20Part%202/)     |      |
 | Lesson 5 | [How to Build an Oracle - Part 3](./3_Advanced%20Solidity-Get%20In-depth%20Knowledge/Lesson%205-How%20to%20Build%20an%20Oracle%20-%20Part%203/)     |      |
 
-<br>
-
 # Course 4 - Beyond Ethereum: Explore the Blockchain Ecosystem
 
 | Lessons  | Descriptions                                                                                                                      | Note |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | Lesson 1 | [Intro to zkSync](./4_Beyond%20Ethereum-Explore%20the%20Blockchain%20Ecosystem/Lesson%201-Intro%20to%20zkSync/)                   |      |
 | Lesson 2 | [Advanced zkSync Concepts](./4_Beyond%20Ethereum-Explore%20the%20Blockchain%20Ecosystem/Lesson%202-Advanced%20zkSync%20Concepts/) |      |
-
-<br>
 
 # Course 5 - Tron: Decentralize the web
 
