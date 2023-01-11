@@ -2,6 +2,8 @@
 
 [CryptoZombies](https://cryptozombies.io/) is an interactive website that help beginners to learn technical knowledge about blockchains. All participants can learn essential development skills about blockchain by writing smart contracts and instantiating an Dapp.
 
+This repo is a learning path of developing Dapps on blockchain by instantiating a game of crypto zombies. The organization of CryptoZombies is still contributing the learning website and adding new courses to the interactive school. Don't forget to keep following them and learn more!
+
 <br>
 
 # Course 1 - Solidity: Beginner to Intermediate Smart Contracts
