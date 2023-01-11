@@ -8,14 +8,12 @@
 
 | Lessons  | Descriptions                                                                                                                                    | Note |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| Lesson 1 | [Making the Zombie Factory](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%201-Making%20the%20Zombie%20Factory/)       |
-| Lesson 2 | [Zombies Attack Their Victims](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%202-Zombies%20Attack%20Their%20Victims/) |      |
-| Lesson 3 | [Advanced Solidity Concepts](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%203-Advanced%20Solidity%20Concepts/)       |      |
-| Lesson 4 | [Zombie Battle System](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%204-Zombie%20Battle%20System/)                   |      |
-| Lesson 5 | [ERC721 & Crypto-Collectibles](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%205-ERC721%20%26%20Crypto-Collectibles/) |      |
-| Lesson 6 | [App Front-ends & Web3_js](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%206-App%20Front-ends%20%26%20Web3_js/)       |      |
-
-<br>
+| Lesson 1 | [Making the Zombie Factory](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%201-Making%20the%20Zombie%20Factory/)       | ✅   |
+| Lesson 2 | [Zombies Attack Their Victims](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%202-Zombies%20Attack%20Their%20Victims/) | ✅   |
+| Lesson 3 | [Advanced Solidity Concepts](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%203-Advanced%20Solidity%20Concepts/)       | ✅   |
+| Lesson 4 | [Zombie Battle System](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%204-Zombie%20Battle%20System/)                   | ✅   |
+| Lesson 5 | [ERC721 & Crypto-Collectibles](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%205-ERC721%20%26%20Crypto-Collectibles/) | ✅   |
+| Lesson 6 | [App Front-ends & Web3_js](./1_Solidity-Beginner%20to%20Intermediate%20Smart%20Contracts%20/Lesson%206-App%20Front-ends%20%26%20Web3_js/)       | ✅   |
 
 # Course 2 - Chainlink: Decentralized Oracles
 
